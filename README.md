@@ -11,7 +11,7 @@ Este repositorio ha sido creado como parte de la práctica de integración entre
 - Integrar ambos servicios para recibir notificaciones automáticas.
 - Verificar la recepción de actualizaciones (commits) desde GitHub en un canal de Slack.
 
----
+----
 
 ## 🛠️ Pasos realizados
 
